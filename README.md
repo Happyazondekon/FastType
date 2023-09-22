@@ -25,7 +25,7 @@ FastType est un jeu de dactylographie amusant et éducatif conçu pour améliore
 
 ## Captures d'écran
 
-![Capture d'écran du jeu](gamescreen.png)
+![Capture d'écran du jeu](FastTYPE/gamescreen.png)
 
 ## Contribuer
 
