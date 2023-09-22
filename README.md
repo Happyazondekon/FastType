@@ -1,4 +1,4 @@
-# FastType #  - Jeu de Dactylographie
+# FastType  - Jeu de Dactylographie
 
 FastType est un jeu de dactylographie amusant et éducatif conçu pour améliorer vos compétences en frappe au clavier. Le jeu propose une série de mots et de phrases de plus en plus difficiles que vous devez taper aussi rapidement et avec le moins d'erreurs possible. Défiez-vous et vos amis pour obtenir les meilleurs scores !
 
