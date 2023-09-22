@@ -41,4 +41,4 @@ Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plu
 
 ---
 
-Amusez-vous bien en jouant à Azertype ! Testez vos compétences en dactylographie et atteignez le sommet du classement.
+Amusez-vous bien en jouant à FastType ! Testez vos compétences en dactylographie et atteignez le sommet du classement.
