@@ -37,7 +37,7 @@ Nous sommes ouverts aux contributions. Si vous souhaitez améliorer le jeu, ajou
 
 ## Licence
 
-Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence MIT. Consultez le fichier [LICENSE](License.txt) pour plus de détails.
 
 ---
 
