@@ -32,11 +32,6 @@ FastType est un jeu de dactylographie amusant et éducatif conçu pour améliore
 
 Nous sommes ouverts aux contributions. Si vous souhaitez améliorer le jeu, ajouter des fonctionnalités ou corriger des bugs, n'hésitez pas à soumettre une demande d'extraction (pull request).
 
-
-## Licence
-
-Ce projet est sous licence MIT. Consultez le fichier [LICENSE](License.txt) pour plus de détails.
-
 ---
 
 Amusez-vous bien en jouant à FastType ! Testez vos compétences en dactylographie et atteignez le sommet du classement.
